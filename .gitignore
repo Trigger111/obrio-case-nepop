@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+package-lock.json
+
+# Power BI тимчасові файли
+*.pbix.tmp
+~$*
+
+# ОС
+Thumbs.db
+.DS_Store
+
+# Локальні чернетки
+tmp/
+scratch/
